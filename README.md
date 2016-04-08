@@ -9,6 +9,6 @@ The app performs transactions like Prepaid loading, card-less withdrawal and bal
 
 These transaction are performed through different bank accounts like savings, transmission and credit account.
 
-Transaction are linked with clients by they accounts.
+Clients have their unique login profile and their transaction are linked with they accounts.
 
-Client's details can be updated without changing touching accounts details.
+Client's details can be updated without changing touching accounts details vice versa with the account details.
