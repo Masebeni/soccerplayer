@@ -1,5 +1,3 @@
-# Assignment5
-
 # Introduction
 This is a mobile banking application, for a bank client to do basic transaction.
 
